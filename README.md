@@ -1,4 +1,8 @@
-# 👋 Hi, I'm **Shivam Malge**!  
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F75C7E&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Shivam+Malge!;Welcome+to+my+GitHub!;Let's+Explore+Together!" alt="Typing SVG" />
+  </h1>
+</div>
 💻 **CSDS Student @ Atria Institute of Technology (Graduating 2027)**  
 🌟 **Aspiring ML Engineer | Finance Enthusiast | Data Science Explorer**
 

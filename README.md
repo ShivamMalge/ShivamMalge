@@ -4,7 +4,6 @@
   </h1>
 </div>
 
-
 💻 **CSDS Student @ Atria Institute of Technology (Graduating 2027)**  
 🌟 **Aspiring ML Engineer | Finance Enthusiast | Data Science Explorer**
 
@@ -25,6 +24,8 @@
 ### 🌐 **Languages & Tools I Use**  
 <div align="center">  
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -36,8 +37,14 @@
 ---
 
 ### 📫 **Connect With Me**  
-- [🌐 LinkedIn](https://www.linkedin.com/in/shivam-malge-12523a293/)  
-- [📸 Instagram](https://www.instagram.com/epsilon_edge/)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/shivam-malge-12523a293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/epsilon_edge/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>  
 
 ---
 
@@ -54,4 +61,7 @@
 </div>  
 
 ---
+
+
+
 

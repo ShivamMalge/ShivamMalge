@@ -66,7 +66,5 @@
 
 ---
 
-### 🔥 **Latest Projects**  
-- 💡 **Finance Dashboard**: Live crime data visualization using **Kepler.gl** and **Streamlit**.  
-- 🎵 **8D Audio Converter**: Upload, process, and download MP4 tracks in **8D audio**.  
+
 

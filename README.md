@@ -5,6 +5,7 @@
 </div>
 
 <p align="center">
+  
   💻 **CSDS Student @ Atria Institute of Technology (Graduating 2027)** <br />
   🌟 **Aspiring ML Engineer | Finance Enthusiast | Data Science Explorer**
 </p>

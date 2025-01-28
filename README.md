@@ -63,7 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=radical" alt="Shivam's GitHub stats" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=radical" alt="Top Languages" />
 </div>  
-
 ---
 
 

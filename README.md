@@ -5,21 +5,18 @@
 </div>
 
 <p align="center">
-  
   💻 **CSDS Student @ Atria Institute of Technology (Graduating 2027)** <br />
   🌟 **Aspiring ML Engineer | Finance Enthusiast | Data Science Explorer**
 </p>
 
 ---
 
-### 🔭 **Currently Working On**  
-- 🚀 Learning **Machine Learning** and building **Neural Networks** from scratch.  
+### 🔭 **Currently Working On** - 🚀 Learning **Machine Learning** and building **Neural Networks** from scratch.  
 - 📈 Establishing a **finance-focused community** at my college to bridge finance and technology.  
 
 ---
 
-### 📖 **What I'm Learning**  
-- 🤖 **Deep Learning**, **DSA**, and mastering **TensorFlow**.  
+### 📖 **What I'm Learning** - 🤖 **Deep Learning**, **DSA**, and mastering **TensorFlow**.  
 - 💰 Preparing for **CFA Level 1** with a focus on financial analysis and quantitative methods.  
 
 ---
@@ -41,10 +38,10 @@
 
 ---
 
-### 📫 **Connect With Me**  
-<div align="center">
+### 📫 **Connect With Me** <div align="center">
   <a href="https://www.linkedin.com/in/shivam-malge-12523a293/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
+  </a>
   <a href="https://www.instagram.com/epsilon_edge/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="50" height="50" />
   </a>
@@ -52,19 +49,14 @@
 
 ---
 
-### ⚡ **Fun Fact**  
-- 🧠 I can solve **99% of Quantitative Reasoning questions** in GRE practice papers!  
+### ⚡ **Fun Fact** - 🧠 I can solve **99% of Quantitative Reasoning questions** in GRE practice papers!  
 - 🎯 I see mathematics as a way to predict the **uncertainties of life**!  
 
 ---
 
-### 📊 **GitHub Stats**  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=radical" alt="Shivam's GitHub stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=radical" alt="Top Languages" />
+### 📊 **GitHub Stats** <div align="center">  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShivamMalge&show_icons=true&theme=radical" alt="Shivam's GitHub stats" />  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=radical" alt="Top Languages" />
 </div> 
 
 ---
-
-
-

@@ -15,57 +15,57 @@
 
 I operate at the intersection of:
 
-- 📈 **Quantitative Finance** — derivatives, portfolio optimization, stochastic modeling  
-- 🧠 **Machine Learning Systems** — building models from first principles to production  
-- ⚙️ **Systems Engineering** — scalable, performant, and modular architectures  
+- 📈 Quantitative Finance — derivatives, portfolio optimization, stochastic modeling  
+- 🧠 Machine Learning Systems — from first principles to production  
+- ⚙️ Systems Engineering — scalable, performant architectures  
 
 ---
 
 ## 🔬 Deep Work (Proof of First Principles)
 
-- Built neural networks from scratch using NumPy (forward + backprop)
-- Implemented financial models including Black-Scholes pricing
-- Designed distributed system simulations for swarm agents
-- Developed algorithm visualizers to understand computational behavior
+- Built neural networks from scratch using NumPy (forward + backprop)  
+- Implemented Black-Scholes pricing model manually  
+- Designed distributed simulations for swarm intelligence  
+- Built algorithm visualizers to understand computational behavior  
 
 ---
 
 ## 🧪 Currently Building
 
 - **Network Intrusion & Adaptive Defence System**  
-  → Reinforcement learning–based decision engine for dynamic threat mitigation  
+  → Reinforcement learning–based dynamic threat mitigation  
 
 - **AI YouTube Automation Engine**  
-  → End-to-end pipeline (idea → script → assets → video → upload → analytics loop)  
+  → Idea → Script → Assets → Video → Upload → Feedback loop  
 
 - **QuantLab Engine**  
-  → Portfolio optimization + derivatives pricing + backtesting system  
+  → Portfolio optimization + derivatives pricing + backtesting  
 
 ---
 
 ## ⚡ Core Projects
 
 ### 🔹 Pratyaksha Engine  
-A high-performance system for visualizing data structures and algorithms  
-→ evolving into an interactive learning engine  
+High-performance system for visualizing DSA concepts  
+→ evolving into a full learning engine  
 
 ### 🔹 Swarm Autonomy Framework  
-Decentralized multi-agent system for drone swarm intelligence  
-→ focus on communication, coordination, and robustness  
+Decentralized multi-agent system  
+→ communication, coordination, robustness  
 
 ### 🔹 QuantLab Engine  
-Quantitative finance toolkit for:
+Toolkit for:
 - derivatives pricing  
 - portfolio optimization  
 - strategy backtesting  
 
 ---
 
-## 📊 Engineering Metrics (Signal > Claims)
+## 📊 Engineering Metrics
 
-- Simulated multi-agent systems at scale  
-- Built modular ML pipelines for experimentation  
-- Optimized computation workflows for performance and scalability  
+- Designed scalable modular ML pipelines  
+- Simulated multi-agent systems  
+- Optimized computation workflows  
 
 ---
 
@@ -94,16 +94,15 @@ Quantitative finance toolkit for:
 ## 🧭 Working Style
 
 ### 1. First-Principles Thinking
-Break complex systems into mathematical and computational foundations  
+Break systems into fundamentals  
 
-- Swarm systems → graph theory + distributed consensus  
-- Finance → stochastic processes + optimization  
-- ML → linear algebra + gradient descent  
+- Swarm → graph theory + consensus  
+- Finance → stochastic processes  
+- ML → linear algebra + gradients  
 
 ---
 
 ### 2. Build From Scratch First
-Before frameworks, I implement core logic manually  
 
 - neural networks  
 - algorithms  
@@ -114,7 +113,6 @@ Before frameworks, I implement core logic manually
 ---
 
 ### 3. Engineer for Scale
-Once validated:
 
 - optimize performance  
 - integrate frameworks  
@@ -123,16 +121,16 @@ Once validated:
 ---
 
 ### 4. Iterate Like a Researcher
-Cycle:
 
 > Hypothesis → Prototype → Experiment → Analyze → Improve  
 
 ---
 
 ### 5. Document & Share
+
 - open-source systems  
-- visual learning tools  
-- clear engineering documentation  
+- visual tools  
+- structured documentation  
 
 ---
 
@@ -152,6 +150,7 @@ Cycle:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=radical&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivammalge-basics&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammalge-basics&layout=compact&theme=radical&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=shivammalge-basics&theme=radical"/>
 </p>

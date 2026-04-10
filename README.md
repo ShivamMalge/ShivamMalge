@@ -1,60 +1,111 @@
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F75C7E&background=FFFFFF00&width=500&lines=Hi%2C+I'm+Shivam+Malge!;Quant+Developer+%26+ML+Engineer;Building+Scalable+Intelligent+Systems" />
-  </h1>
-</div>
+# 👋 Hey, I'm Shivam Malge
 
-<p align="center">
-  🤖 <b>Computer Science & Design @ Atria Institute of Technology (2027)</b> <br />
-  📊 <b>Quantitative Finance × Machine Learning × Systems Engineering</b>
-</p>
+🚀 Aspiring AI/ML Engineer | Quant Enthusiast | System Builder  
+💡 Building end-to-end intelligent systems with real-world impact  
 
 ---
 
-## 🚀 Strategic Focus
+## 🧠 About Me
 
-I operate at the intersection of:
-
-- 📈 Quantitative Finance — derivatives, portfolio optimization, stochastic modeling  
-- 🧠 Machine Learning Systems — from first principles to production  
-- ⚙️ Systems Engineering — scalable, performant architectures  
-
----
-
-## 🔬 Deep Work (Proof of First Principles)
-
-- Built neural networks from scratch using NumPy (forward + backprop)  
-- Implemented Black-Scholes pricing model manually  
-- Designed distributed simulations for swarm intelligence  
-- Built algorithm visualizers to understand computational behavior  
+- 🎯 Focused on **AI/ML + Finance + Systems Engineering**
+- 🛠️ Love building **full-stack AI systems** (not just models)
+- 📈 Currently exploring:
+  - Quantitative Finance (Portfolio Optimization, Risk Models)
+  - Machine Learning Pipelines
+  - Automation Systems (YouTube AI, Data Engines)
+- 🧩 Strong believer in **execution > ideas**
 
 ---
 
-## 🧪 Currently Building
+## ⚡ Tech Stack
 
-- **Network Intrusion & Adaptive Defence System**  
-  → Reinforcement learning–based dynamic threat mitigation  
+### 👨‍💻 Languages
+- Python 🐍
+- JavaScript ⚡
+- SQL 🗄️
 
-- **AI YouTube Automation Engine**  
-  → Idea → Script → Assets → Video → Upload → Feedback loop  
+### 🧠 AI/ML
+- Scikit-learn
+- Pandas / NumPy
+- Matplotlib / Seaborn
+- FastAPI
 
-- **QuantLab Engine**  
-  → Portfolio optimization + derivatives pricing + backtesting  
+### 🌐 Development
+- React
+- Node.js
+- REST APIs
+
+### 🛠️ Tools
+- Git & GitHub
+- VS Code
+- Warp Terminal
 
 ---
 
-## ⚡ Core Projects
+## 🚀 Featured Projects
 
-### 🔹 Pratyaksha Engine  
-High-performance system for visualizing DSA concepts  
-→ evolving into a full learning engine  
+### 📊 AI-Powered Financial Portfolio Optimizer
+- Applied **Markowitz Optimization**
+- Built risk-return efficient portfolios
+- Visualized financial insights
 
-### 🔹 Swarm Autonomy Framework  
-Decentralized multi-agent system  
-→ communication, coordination, robustness  
+---
 
-### 🔹 QuantLab Engine  
-Toolkit for:
+### 🧠 Network Intrusion & Adaptive Defence System
+- Real-time intrusion detection
+- Adaptive response system
+- Focus on cybersecurity + ML integration
+
+🔗 Repo: https://github.com/ShivamMalge/Network-Intrusion-and-Adaptive-Defence-System
+
+---
+
+### 🎬 AI YouTube Shorts Automation System
+- Script generation using AI
+- Auto video generation (TTS + captions)
+- Smart scheduling + analytics feedback loop
+
+---
+
+### 📈 Data Visualization Dashboard
+- Region-wise, party-wise, individual analysis
+- Interactive dashboards for public insights
+
+---
+
+## 📊 GitHub Stats
+
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=tokyonight)
+
+---
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Current Focus
+
+- 🧠 Advanced ML + AI Systems
+- 💰 Quant Finance Projects
+- ⚙️ Scalable Backend Systems
+- 🚀 Building portfolio for top tech & quant firms
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (Add your link here)
+- 📧 Email: (Add your email)
+
+---
+
+## ⚡ Fun Fact
+
+> I don’t just build projects — I build **systems that think, adapt, and scale**.
+
+---Toolkit for:
 - derivatives pricing  
 - portfolio optimization  
 - strategy backtesting  
@@ -153,4 +204,20 @@ Break systems into fundamentals
   <img src="https://github-readme-stats.vercel.app/api?username=shivammalge-basics&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammalge-basics&layout=compact&theme=radical&cache_seconds=1800"/>
   <img src="https://streak-stats.demolab.com?user=shivammalge-basics&theme=radical"/>
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivammalge-basics&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivammalge-basics&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammalge-basics&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>

@@ -60,7 +60,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivammalge&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivamMalge&theme=tokyonight&hide_border=true&cache_seconds=1800)
 

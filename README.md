@@ -26,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="45" title="Three.js"/>
 </p>
 
 ---
@@ -39,11 +38,11 @@
 
 ### 🛸 Decentralized Swarm Autonomy Framework
 - Research-grade simulation for decentralized drone swarms.
-- Event-driven architecture focused on collective intelligence and obstacle avoidance.
+- Event-driven architecture focused on collective intelligence.
 
 ### 🦀 Dravya: Quant Finance Toolkit
 - High-performance library built with **Rust** and **Wasm**.
-- Features: Black-Scholes pricing, Markowitz Portfolio Optimization, and backtesting engines.
+- Features: Black-Scholes pricing and Markowitz Portfolio Optimization.
 
 ---
 
@@ -51,22 +50,19 @@
 
 > *"Mathematics is the language of uncertainty; code is the tool to govern it."*
 
-1. **First-Principles Thinking:** Break systems into fundamentals (Swarm → Graph Theory | Finance → Stochastic Processes).
-2. **Build From Scratch:** Writing neural networks and financial models from the ground up to build deep intuition.
-3. **Iterate Like a Researcher:** Hypothesis → Prototype → Experiment → Analyze → Improve.
+1. **First-Principles Thinking:** Break systems into fundamentals.
+2. **Build From Scratch:** Deep intuition through manual implementation.
+3. **Iterate Like a Researcher:** Hypothesis → Prototype → Experiment → Improve.
 
 ---
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Shivam's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamMalge&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivamMalge&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 

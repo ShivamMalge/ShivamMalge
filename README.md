@@ -46,7 +46,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShivamMalge&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=radical" />
+
 </p>
 
 ---

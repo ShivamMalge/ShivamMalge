@@ -1,82 +1,106 @@
-# 👋 Hey, I'm Shivam Malge
+<h1 align="center">Hey 👋, I'm Shivam Malge</h1>
 
-🚀 **Aspiring AI/ML Engineer | Quant Enthusiast | System Builder** 💡 *Building end-to-end intelligent systems with real-world impact*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Future+Quant;Building+Scalable+Systems"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivamMalge&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<h3 align="center">🚀 AI + Finance Systems | Full-Stack Developer | Future Quant</h3>
 
 ---
 
 ## 🧠 About Me
-
-- 🎯 **Focus:** AI/ML + Quantitative Finance + Systems Engineering
-- 🛠️ **Approach:** Building full-stack AI systems (from scratch intuition to scalable deployment)
-- 📈 **Current Exploration:** - Quantitative Finance (Portfolio Optimization, Risk Models, Derivative Pricing)
-  - Machine Learning Pipelines & Research-grade Simulations
-  - High-Performance Computing with Rust & WebAssembly
-- 🧩 **Motto:** *Execution > Ideas*
+- 🎓 CS Student focused on **AI, ML & Quant Finance**
+- 💻 Building **real-world, production-ready systems**
+- 📊 Interested in **Market Analysis, Trading Systems & Automation**
+- ⚡ Currently working on **AI-powered platforms & data systems**
+- 🎯 Targeting **Tower Research, JP Morgan, HFT firms**
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+
+### 📊 Data & AI
+![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-111?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45" title="Rust"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🚀 Featured Systems
+## 🔥 Streak Stats
 
-### 🛡️ [Autonomous Cyber Defense Platform](https://github.com/ShivamMalge/Network-Intrusion-and-Adaptive-Defence-System)
-- Multi-agent network intrusion simulation using Reinforcement Learning.
-- Adaptive response systems for real-time threat mitigation.
-
-### 🛸 Decentralized Swarm Autonomy Framework
-- Research-grade simulation for decentralized drone swarms.
-- Event-driven architecture focused on collective intelligence.
-
-### 🦀 Dravya: Quant Finance Toolkit
-- High-performance library built with **Rust** and **Wasm**.
-- Features: Black-Scholes pricing and Markowitz Portfolio Optimization.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShivamMalge&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🧭 Engineering Philosophy
+## 🏆 Achievements
 
-> *"Mathematics is the language of uncertainty; code is the tool to govern it."*
-
-1. **First-Principles Thinking:** Break systems into fundamentals.
-2. **Build From Scratch:** Deep intuition through manual implementation.
-3. **Iterate Like a Researcher:** Hypothesis → Prototype → Experiment → Improve.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShivamMalge&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamMalge&theme=tokyo-night&hide_border=true"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivamMalge&theme=tokyonight&hide_border=true&cache_seconds=1800)
+## 🚀 Featured Projects
+
+- 🧠 AI YouTube Shorts Automation System  
+- 📊 Financial Analytics Dashboard  
+- ⚡ Real-Time Data Visualization Engine  
+- 🤖 Quant Strategy Models (Markowitz + Advanced)
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivam-malge-12523a293/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.instagram.com/epsilon_edge/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://github.com/ShivamMalge">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-<p align="center">
-  <b>Fun Fact:</b> I don’t just build projects — I build systems that think, adapt, and scale.
-</p>
+---
+
+## ⚡ Philosophy
+
+> I don’t just write code — I build systems that **scale, automate, and generate value.**
+
+---
+
+<p align="center">🔥 Building the future, one system at a time.</p>

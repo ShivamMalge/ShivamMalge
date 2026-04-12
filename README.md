@@ -42,13 +42,12 @@
 
 ---
 
-## 📈 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShivamMalge&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=radical" />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShivamMalge&show_icons=true&theme=radical&hide_border=true&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=radical&hide_border=true&border_radius=12" height="180"/>
 </p>
 
 ---

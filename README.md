@@ -78,15 +78,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🧠 AI YouTube Shorts Automation System  
-- 📊 Financial Analytics Dashboard  
-- ⚡ Real-Time Data Visualization Engine  
-- 🤖 Quant Strategy Models (Markowitz + Advanced)
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">

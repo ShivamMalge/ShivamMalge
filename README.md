@@ -1,372 +1,101 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<h1 align="center">Hey 👋, I'm Shivam Malge</h1>
 
-<!--                         SHIVAM MALGE                                    -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Future+Quant;Building+Scalable+Systems"/>
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivamMalge&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:020617&text=SHIVAM%20MALGE&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20SYSTEMS%20%20%E2%80%A2%20%20DATA%20%20%E2%80%A2%20%20QUANT&descAlignY=62&descSize=18&animation=fadeIn" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+intelligent+systems.;Turning+data+into+decisions.;Engineering+high-performance+pipelines.;Exploring+AI+%C3%97+systems+%C3%97+quantitative+finance." />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ShivamMalge&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<a href="https://github.com/ShivamMalge">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
+<h3 align="center">🚀 AI + Finance Systems | Full-Stack Developer | Future Quant</h3>
 
 ---
 
-<div align="center">
+## 🧠 About Me
 
-### `> whoami`
-
-</div>
-
-```text
-CS / Data Science Engineer
-
-Interested in:
-├── Artificial Intelligence
-├── Machine Learning
-├── Data & Distributed Systems
-├── Backend / Systems Engineering
-├── Quantitative Finance
-└── High-performance computing
-
-Currently:
-├── Building AI-powered systems
-├── Designing data-intensive infrastructure
-├── Exploring quantitative & financial systems
-└── Going deeper into systems, ML and distributed architecture
-```
-
-<div align="center">
-
-> **I like building systems where algorithms meet infrastructure.**
-
-</div>
+- 🎓 CS Student focused on **AI, ML & Quant Finance**
+- 💻 Building **real-world, production-ready systems**
+- 📊 Interested in **Market Analysis, Trading Systems & Automation**
+- ⚡ Currently working on **AI-powered platforms & data systems**
+- 🎯 Targeting **Tower Research, JP Morgan, HFT firms**
 
 ---
 
-# 🧠 CURRENT FOCUS
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 💻 Languages
 
-### Artificial Intelligence
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
 
-```text
-Machine Learning
-Deep Learning
-Computer Vision
-NLP
-LLMs
-RAG
-Embeddings
-AI Systems
-```
+### ⚙️ Frameworks & Tools
 
-</td>
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
 
-<td width="50%" valign="top">
+### 📊 Data & AI
 
-### Systems & Data
-
-```text
-Distributed Systems
-Streaming
-Data Pipelines
-Observability
-Backend Architecture
-High Performance Computing
-Analytics Infrastructure
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Quantitative Finance
-
-```text
-Market Analysis
-Portfolio Optimization
-Quant Research
-Systematic Strategies
-Financial Data
-Trading Systems
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering
-
-```text
-Performance
-Concurrency
-Reliability
-Scalability
-Automation
-Developer Tooling
-```
-
-</td>
-</tr>
-</table>
+![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-111?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
 
 ---
 
-# ⚡ TECH ARSENAL
+## 📊 GitHub Stats
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,rust,typescript,javascript,cpp&theme=dark" />
-
-<br/><br/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-
-<br/><br/>
-
-### Backend / Infrastructure
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,docker,kafka,linux,git&theme=dark" />
-
-<br/><br/>
-
-### Cloud / Engineering
-
-<img src="https://skillicons.dev/icons?i=aws,githubactions,docker&theme=dark" />
-
-</div>
-
-<br/>
-
-```text
-Python        → ML / Data / AI / Quant
-Rust          → Systems / Performance / Infrastructure
-TypeScript    → Applications / Tooling
-SQL           → Data / Analytics
-FastAPI       → ML & Data APIs
-Kafka         → Event Streaming
-ClickHouse    → Analytical Workloads
-PostgreSQL    → Persistent Data
-RisingWave    → Streaming Analytics
-Docker        → Deployment / Infrastructure
-AWS           → Cloud Infrastructure
-```
----
-
-# 🔬 HOW I THINK ABOUT ENGINEERING
-
-```text
-                    ┌───────────────────┐
-                    │      PROBLEM      │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │    ALGORITHM      │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │       DATA        │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │   ARCHITECTURE    │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │    PERFORMANCE    │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │   RELIABILITY     │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │     REAL WORLD    │
-                    └───────────────────┘
-```
-
-I don't want to stop at **"the model works."**
-
-I want to understand:
-
-**How fast? · How much data? · What breaks? · How does it scale? · What happens under failure?**
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShivamMalge&show_icons=true&theme=radical&hide_border=true&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=radical&hide_border=true&border_radius=12" height="180"/>
+</p>
 
 ---
 
-# 📊 GITHUB // SYSTEM STATUS
+## 🔥 Streak Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ShivamMalge&theme=github-dark-blue&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShivamMalge&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 🏆 CONTRIBUTION MATRIX
+## 🏆 Achievements
 
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/ShivamMalge/ShivamMalge/main/assets/monthly-commits.svg"
-  width="100%"
-  alt="Monthly Commit Activity"
-/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShivamMalge&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamMalge&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamMalge&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🐍 CONTRIBUTION FLOW
+## 📊 Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ShivamMalge/ShivamMalge/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamMalge&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-# 📈 THE STACK EVOLUTION
+## 🌐 Connect With Me
 
-```text
-                APPLICATIONS
-                     │
-                     ▼
-             ┌───────────────┐
-             │    AI / ML    │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │ DATA SYSTEMS  │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │ DISTRIBUTED   │
-             │    SYSTEMS    │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   SYSTEMS /   │
-             │  PERFORMANCE  │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   QUANT /     │
-             │   FINANCE     │
-             └───────────────┘
-```
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/ShivamMalge">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-# 🎯 CURRENTLY LEARNING
+## ⚡ Philosophy
 
-<div align="center">
-
-`Advanced ML`
-
-`Distributed Systems`
-
-`High-Performance Computing`
-
-`AWS`
-
-`Quantitative Finance`
-
-`LLM Systems`
-
-`Data Engineering`
-
-</div>
+> I don't just write code — I build systems that **scale, automate, and generate value.**
 
 ---
 
-# 🌐 CONNECT
-
-<div align="center">
-
-<a href="https://github.com/ShivamMalge">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Code-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Interested in
-
-`AI` · `ML` · `Systems` · `Data` · `Quant` · `Open Source`
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:111827,100:0f172a&section=footer" />
-
-</div>
+<p align="center">🔥 Building the future, one system at a time.</p>

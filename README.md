@@ -249,16 +249,13 @@ I want to understand:
 
 # 🏆 CONTRIBUTION MATRIX
 
-# 📊 MONTHLY COMMIT ACTIVITY
-
 <div align="center">
 
 <img
   src="https://raw.githubusercontent.com/ShivamMalge/ShivamMalge/main/assets/monthly-commits.svg"
   width="100%"
+  alt="Monthly Commit Activity"
 />
-
-</div>
 
 </div>
 

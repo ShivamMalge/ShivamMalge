@@ -29,13 +29,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180"/>
 </p>
-
 ---
 
 ## 🔥 Streak Stats

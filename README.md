@@ -1,101 +1,180 @@
-<h1 align="center">Hey 👋, I'm Shivam Malge</h1>
+# Hey, I'm Shivam 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Future+Quant;Building+Scalable+Systems"/>
+### AI/ML Engineer • Systems Builder • Quant Enthusiast
+
+I build **AI systems, data-intensive backends, and engineering tools** that turn complex problems into usable systems.
+
+My interests sit at the intersection of:
+
+**Artificial Intelligence · Machine Learning · Data Systems · Distributed Systems · Quantitative Finance**
+
+I'm particularly interested in problems involving **large-scale data, intelligent automation, high-performance systems, and financial markets**.
+
+---
+
+## 🧠 What I'm Working On
+
+* Building **AI/ML systems** beyond notebooks and demos
+* Designing **data pipelines and distributed systems**
+* Exploring **quantitative finance, market analysis & algorithmic trading**
+* Building backend infrastructure with a focus on **performance, reliability and observability**
+* Experimenting with **LLMs, RAG, embeddings and intelligent developer tools**
+* Learning how production systems behave under **scale, failure and real-world constraints**
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,rust,typescript,javascript" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivamMalge&label=Profile%20Views&color=0e75b6&style=flat"/>
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-<h3 align="center">🚀 AI + Finance Systems | Full-Stack Developer | Future Quant</h3>
+**Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · RAG · Embeddings · Model Evaluation**
 
----
+### Backend & Systems
 
-## 🧠 About Me
-
-- 🎓 CS Student focused on **AI, ML & Quant Finance**
-- 💻 Building **real-world, production-ready systems**
-- 📊 Interested in **Market Analysis, Trading Systems & Automation**
-- ⚡ Currently working on **AI-powered platforms & data systems**
-- 🎯 Targeting **Tower Research, JP Morgan, HFT firms**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
-
-### ⚙️ Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-
-### 📊 Data & AI
-
-![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-111?style=for-the-badge&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-111?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShivamMalge&show_icons=true&theme=radical&hide_border=true&border_radius=12" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=radical&hide_border=true&border_radius=12" height="180"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,docker,kafka" />
 </p>
 
----
+**FastAPI · REST APIs · PostgreSQL · Kafka · ClickHouse · Distributed Systems · Event-Driven Architecture**
 
-## 🔥 Streak Stats
+### Data
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShivamMalge&theme=tokyonight&hide_border=true"/>
+**Python · Pandas · NumPy · SQL · PostgreSQL · ClickHouse · Kafka · RisingWave**
+
+### Cloud & Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git" />
 </p>
 
+**AWS · Docker · GitHub Actions · Linux · Git · CI/CD · Observability**
+
 ---
 
-## 🏆 Achievements
+## 🚀 What I Like Building
+
+### 🧠 AI & Intelligent Systems
+
+Systems that combine machine learning with real-world software infrastructure.
+
+**LLMs · RAG · NLP · Computer Vision · Embeddings · AI Agents**
+
+### 📊 Data & Analytics Infrastructure
+
+Pipelines that collect, process, enrich and serve large volumes of data.
+
+**Streaming · Event Processing · Data Pipelines · OLAP · Analytics**
+
+### ⚡ High-Performance Systems
+
+I enjoy understanding where performance actually goes — latency, throughput, memory, concurrency and architecture.
+
+**Rust · Distributed Systems · Streaming Systems · Backend Infrastructure**
+
+### 📈 Quant & Financial Systems
+
+I'm exploring the intersection of **machine learning, statistics and financial markets**.
+
+**Market Analysis · Portfolio Optimization · Quantitative Research · Trading Systems**
+
+---
+
+## 🔬 Selected Projects
+
+### NeuroForge
+
+A visual neural-network builder that lets users construct and experiment with neural networks without writing the entire training pipeline manually.
+
+**Python · Neural Networks · Computer Vision · Interactive Systems**
+
+### Developer Productivity Intelligence
+
+A distributed observability and analytics platform designed to collect developer telemetry, process events through a streaming pipeline and generate meaningful engineering insights.
+
+**Rust · Kafka · RisingWave · ClickHouse · PostgreSQL · Python**
+
+### Semantic Code Intelligence
+
+Exploring systems that understand source code semantically by combining parsing, AST extraction, embeddings and vector search.
+
+**Rust · ASTs · Embeddings · Vector Search · LLMs**
+
+### Quantitative Finance
+
+Machine-learning and optimization experiments focused on portfolio construction, market analysis and systematic decision-making.
+
+**Python · NumPy · Pandas · Scikit-learn · PyPortfolioOpt**
+
+---
+
+## 🧩 Engineering Interests
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Data & Distributed Systems
+        ↓
+High-Performance Infrastructure
+        ↓
+Financial / Quantitative Applications
+```
+
+I enjoy working across the stack when necessary, but I'm especially interested in the layers where **algorithms meet infrastructure**.
+
+---
+
+## 📊 GitHub
+
+<!-- GitHub Stats -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamMalge&hide_border=true" />
+
+---
+
+## 🏆 Contributions
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamMalge&hide_border=true" />
+
+---
+
+## 🌐 Connect
+
+I'm always interested in talking about:
+
+**AI · ML · Systems · Quant Finance · Open Source · Interesting Engineering Problems**
+
+[GitHub](https://github.com/ShivamMalge) · [LinkedIn](#) · [Portfolio](#)
+
+---
+
+## ⚡ Engineering Philosophy
+
+> **Build systems, not just projects.**
+
+I care about understanding **why a system works, where it breaks, how it scales, and what happens when reality disagrees with the assumptions.**
+
+---
+
+### Currently Learning
+
+**Advanced ML · Distributed Systems · AWS · Quantitative Finance · High-Performance Computing**
+
+---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamMalge&theme=tokyonight"/>
+  <i>Building things that are useful, measurable, and difficult enough to be interesting.</i>
 </p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamMalge&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/ShivamMalge">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-## ⚡ Philosophy
-
-> I don't just write code — I build systems that **scale, automate, and generate value.**
-
----
-
-<p align="center">🔥 Building the future, one system at a time.</p>

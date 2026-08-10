@@ -1,5 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           SHIVAM MALGE                                  -->
+
+<!--                         SHIVAM MALGE                                    -->
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -10,7 +12,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+intelligent+systems.;Turning+data+into+decisions.;Engineering+high-performance+pipelines.;Exploring+AI+%C3%97+systems+%C3%97+quantitative+finance." />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=ShivamMalge&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" />
 
@@ -19,7 +21,6 @@
 <a href="https://github.com/ShivamMalge">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -32,7 +33,7 @@
 
 <div align="center">
 
-## `> whoami`
+### `> whoami`
 
 </div>
 
@@ -45,7 +46,7 @@ Interested in:
 ├── Data & Distributed Systems
 ├── Backend / Systems Engineering
 ├── Quantitative Finance
-└── High-Performance Computing
+└── High-performance computing
 
 Currently:
 ├── Building AI-powered systems
@@ -66,7 +67,6 @@ Currently:
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### Artificial Intelligence
@@ -99,11 +99,9 @@ Analytics Infrastructure
 ```
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### Quantitative Finance
@@ -133,7 +131,6 @@ Developer Tooling
 ```
 
 </td>
-
 </tr>
 </table>
 
@@ -174,18 +171,136 @@ Python        → ML / Data / AI / Quant
 Rust          → Systems / Performance / Infrastructure
 TypeScript    → Applications / Tooling
 SQL           → Data / Analytics
-
 FastAPI       → ML & Data APIs
 Kafka         → Event Streaming
 ClickHouse    → Analytical Workloads
 PostgreSQL    → Persistent Data
 RisingWave    → Streaming Analytics
-
 Docker        → Deployment / Infrastructure
 AWS           → Cloud Infrastructure
-Linux         → Development Environment
-Git           → Version Control
 ```
+
+---
+
+# 🚀 BUILDING
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## `01` — Developer Intelligence
+
+A data-intensive developer observability platform.
+
+```text
+VS Code
+   │
+   ▼
+Rust Ingestion
+   │
+   ▼
+Kafka
+   │
+   ▼
+RisingWave
+   │
+   ├──────────────┐
+   ▼              ▼
+ClickHouse     PostgreSQL
+   │
+   ▼
+Analytics / NLP
+```
+
+**Rust · Kafka · RisingWave · ClickHouse · PostgreSQL · Python**
+
+</td>
+
+<td width="50%" valign="top">
+
+## `02` — NeuroForge
+
+A visual neural-network experimentation platform.
+
+```text
+Architecture
+      │
+      ▼
+   Layers
+      │
+      ▼
+   Training
+      │
+      ▼
+Visualization
+      │
+      ▼
+  Prediction
+```
+
+**Python · Neural Networks · Computer Vision · ML**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## `03` — Semantic Code Intelligence
+
+Exploring code understanding through:
+
+```text
+Source Code
+     ↓
+Parser
+     ↓
+AST
+     ↓
+Embeddings
+     ↓
+Vector Search
+     ↓
+Semantic Retrieval
+     ↓
+LLM
+```
+
+**Rust · AST · Embeddings · Vector Search · LLMs**
+
+</td>
+
+<td width="50%" valign="top">
+
+## `04` — Quant Systems
+
+Exploring the intersection of:
+
+```text
+Market Data
+     +
+Statistics
+     +
+Machine Learning
+     +
+Optimization
+     ↓
+Systematic Decisions
+```
+
+**Python · NumPy · Pandas · Scikit-learn · PyPortfolioOpt**
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -223,15 +338,15 @@ Git           → Version Control
                               │
                               ▼
                     ┌───────────────────┐
-                    │    REAL WORLD     │
+                    │     REAL WORLD    │
                     └───────────────────┘
 ```
 
-<div align="center">
+I don't want to stop at **"the model works."**
 
-`How fast?` · `How much data?` · `What breaks?` · `How does it scale?`
+I want to understand:
 
-</div>
+**How fast? · How much data? · What breaks? · How does it scale? · What happens under failure?**
 
 ---
 
@@ -239,22 +354,17 @@ Git           → Version Control
 
 <div align="center">
 
-<img
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShivamMalge&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github"
-height="180"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShivamMalge&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true" />
 
-<img
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-height="180"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
 
-<br/><br/>
+</div>
 
-<img
-src="https://streak-stats.demolab.com?user=ShivamMalge&theme=github-dark-blue&hide_border=true"
-height="180"
-/>
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShivamMalge&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -308,13 +418,13 @@ height="180"
                      ▼
              ┌───────────────┐
              │   SYSTEMS /   │
-             │  PERFORMANCE   │
+             │  PERFORMANCE  │
              └───────┬───────┘
                      │
                      ▼
              ┌───────────────┐
-             │    QUANT /    │
-             │    FINANCE    │
+             │   QUANT /     │
+             │   FINANCE     │
              └───────────────┘
 ```
 
@@ -324,13 +434,19 @@ height="180"
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Advanced%20ML-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Distributed%20Systems-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/High%20Performance%20Computing-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws" />
-<img src="https://img.shields.io/badge/Quantitative%20Finance-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM%20Systems-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Engineering-0f172a?style=for-the-badge" />
+`Advanced ML`
+
+`Distributed Systems`
+
+`High-Performance Computing`
+
+`AWS`
+
+`Quantitative Finance`
+
+`LLM Systems`
+
+`Data Engineering`
 
 </div>
 
@@ -341,7 +457,7 @@ height="180"
 <div align="center">
 
 <a href="https://github.com/ShivamMalge">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Code-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -354,11 +470,13 @@ height="180"
 
 <div align="center">
 
-### `AI` · `ML` · `SYSTEMS` · `DATA` · `QUANT` · `OPEN SOURCE`
+### Interested in
+
+`AI` · `ML` · `Systems` · `Data` · `Quant` · `Open Source`
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 

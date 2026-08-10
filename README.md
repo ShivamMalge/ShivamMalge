@@ -62,8 +62,6 @@
 </p>
 ---
 ## ⚡ Philosophy
-> I don’t just write code — I build systems that **scale, automate, and generate value.**
+> I don't just write code — I build systems that **scale, automate, and generate value.**
 ---
 <p align="center">🔥 Building the future, one system at a time.</p>
-
-

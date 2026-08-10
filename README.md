@@ -251,6 +251,15 @@ I want to understand:
 
 <div align="center">
 
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamMalge&custom_title=Shivam%20Malge%27s%20Contribution%20Graph&days=31&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true&grid=true"
+  width="100%"
+/>
+
+</div>
+
+<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=ShivamMalge&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 
 <br/><br/>

@@ -1,31 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           SHIVAM MALGE                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0f172a,75:111827,100:020617&text=SHIVAM%20MALGE&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20DATA%20%E2%80%A2%20QUANT&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer;Building+Data-Intensive+Systems;Exploring+Quantitative+Finance;Engineering+High-Performance+Infrastructure;Turning+Data+Into+Intelligent+Systems" />
-
-<br/><br/>
-
-<a href="https://github.com/ShivamMalge">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ShivamMalge&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

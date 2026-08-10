@@ -26,37 +26,6 @@
 
 ---
 
-<div align="center">
-
-### `> INITIALIZING PROFILE...`
-
-<pre>
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   AI / ML          DATA SYSTEMS          QUANT          SYSTEMS     │
-│      │                  │                  │               │        │
-│      └──────────────────┴──────────────────┴───────────────┘        │
-│                              │                                      │
-│                              ▼                                      │
-│                    INTELLIGENT SOFTWARE                             │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-</pre>
-
-</div>
-
----
-
-## 🧠 About Me
-
-- 🎓 CS / Data Science Engineer focused on **AI, ML & Quantitative Finance**
-- 🧠 Building **AI-powered systems and data-intensive platforms**
-- 📊 Interested in **market analysis, quantitative research, trading systems & automation**
-- ⚡ Exploring **distributed systems, high-performance infrastructure & intelligent data pipelines**
-- 🎯 Interested in **quantitative engineering, AI/ML engineering and HFT systems**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -115,22 +84,6 @@ RisingWave    → Streaming Analytics
 Docker        → Infrastructure
 AWS           → Cloud
 </pre>
-
-</div>
-
----
-
-## 🧩 CURRENT INTERESTS
-
-<div align="center">
-
-| 🧠 AI / ML | ⚡ SYSTEMS | 📊 DATA | 📈 QUANT |
-|:---:|:---:|:---:|:---:|
-| Machine Learning | Distributed Systems | Data Pipelines | Market Analysis |
-| Deep Learning | High Performance | Streaming | Portfolio Optimization |
-| NLP | Rust | Analytics | Quant Research |
-| LLMs / RAG | Observability | ClickHouse | Trading Systems |
-| Computer Vision | Backend Systems | Kafka | Systematic Strategies |
 
 </div>
 

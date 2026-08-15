@@ -4,13 +4,7 @@
 <td align="center" width="50%">
 
 ### 📊 GitHub Stats
-
-<img src="https://github-stats-extended.vercel.app/api?username=ShivamMalge&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" width="100%">
-
-<br>
-
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShivamMalge&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="100%">
-
 </td>
 <td align="center" width="50%">
 
